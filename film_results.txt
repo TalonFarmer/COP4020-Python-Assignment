@@ -1,0 +1,99 @@
+Oregon,Once Upon a Time,4075
+Washington,Vikings,3739
+Washington,Game of Thrones,3997
+Nevada,Vikings,1682
+Washington,Game of Thrones,8983
+Washington,Vikings,145
+Idaho,Daredevil,2663
+California,Game of Thrones,6361
+Idaho,Game of Thrones,6788
+Idaho,The Flash,3064
+Oregon,Gotham,9389
+Washington,The Walking Dead,4301
+Nevada,Game of Thrones,7328
+California,The Flash,9003
+Nevada,Gotham,8575
+Idaho,Suits,3239
+Idaho,Gotham,6695
+Nevada,The Flash,594
+Nevada,The Flash,3793
+Nevada,Suits,8544
+California,Vikings,1059
+Nevada,Daredevil,8200
+California,Daredevil,1856
+Washington,Suits,2871
+Washington,Better Call Saul,9574
+Idaho,Vikings,5218
+Idaho,The Walking Dead,6256
+Nevada,Vikings,8581
+Oregon,Game of Thrones,2460
+Washington,Vikings,728
+Oregon,Vikings,7495
+Oregon,The Flash,2103
+Idaho,Better Call Saul,8179
+Oregon,Orange is the New Black,1144
+Nevada,Vikings,7514
+Washington,The Flash,271
+California,The Walking Dead,4353
+Nevada,Game of Thrones,7647
+California,Suits,3408
+Oregon,The Flash,8443
+Washington,Better Call Saul,1970
+Oregon,Vikings,1711
+Nevada,The Walking Dead,825
+Oregon,Better Call Saul,7875
+Idaho,Suits,1333
+California,Once Upon a Time,9753
+Nevada,Daredevil,4233
+Nevada,Orange is the New Black,1349
+California,Gotham,1473
+Idaho,Gotham,4176
+California,Suits,2193
+Oregon,Gotham,8477
+Washington,Gotham,6834
+Oregon,Suits,2569
+Oregon,Gotham,8284
+Oregon,The Flash,4729
+Washington,Game of Thrones,4988
+California,Game of Thrones,1177
+Nevada,Vikings,9210
+Oregon,Daredevil,6374
+Idaho,The Flash,9114
+California,Suits,9049
+Nevada,Once Upon a Time,6639
+Idaho,Orange is the New Black,5225
+Washington,The Flash,4988
+Washington,Once Upon a Time,2103
+Oregon,Suits,6207
+Nevada,Vikings,6859
+California,Suits,1314
+Idaho,The Flash,6491
+Nevada,Game of Thrones,5764
+Nevada,Daredevil,960
+Nevada,Game of Thrones,5205
+Washington,Daredevil,2241
+Idaho,Once Upon a Time,6930
+Washington,Orange is the New Black,3699
+Oregon,The Walking Dead,8447
+Washington,Better Call Saul,3784
+Nevada,Game of Thrones,9469
+California,Daredevil,4746
+California,Better Call Saul,8430
+Idaho,Game of Thrones,742
+Oregon,Better Call Saul,9322
+California,The Flash,3254
+Oregon,The Flash,5103
+California,Orange is the New Black,7291
+Oregon,The Flash,8395
+California,Daredevil,7304
+Nevada,Suits,2707
+Washington,Game of Thrones,2547
+Nevada,Daredevil,5555
+Oregon,Gotham,6505
+Idaho,Daredevil,1817
+Nevada,Better Call Saul,7268
+Nevada,Vikings,8161
+California,Game of Thrones,517
+Oregon,Daredevil,2439
+California,Game of Thrones,7332
+Oregon,Daredevil,6149
